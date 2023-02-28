@@ -1,0 +1,38 @@
+
+body{
+    font-family: 'Bellota Text', cursivo;;
+}
+.imagem-woman{
+    position:relative;
+    height:30%;
+    width: 30%;
+    border-radius: 95px;
+    padding-left: 60%;
+}
+.titulo{   
+    position: relative; 
+    font-size: 60px;
+
+}
+.description{    
+    position: absolute;
+    font-size: 20px;
+    text-align:left;
+   
+}
+.barra-nav{
+    position:static;
+    text-decoration: none;
+    background-color:rgb(197, 87, 224) ;
+    border-radius: 7px;
+    color: #8a2be2;
+}
+.barra-nav :hover{
+    background-color: thistle;
+    text-transform:uppercase
+}
+.rodape{
+    font-size: 10px;
+    text-align: center;
+ 
+}
